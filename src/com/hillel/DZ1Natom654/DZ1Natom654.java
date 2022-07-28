@@ -1,4 +1,4 @@
-package DZ1Natom654;
+package com.hillel.DZ1Natom654;
 
 public class DZ1Natom654 {
     public static void main(String[] args) {
