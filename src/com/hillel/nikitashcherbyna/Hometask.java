@@ -1,4 +1,4 @@
-package nikitashcherbyna;
+package com.hillel.nikitashcherbyna;
 
 public class Hometask {
     public static void main(String[] args) {
