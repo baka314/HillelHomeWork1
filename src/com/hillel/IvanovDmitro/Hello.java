@@ -1,4 +1,4 @@
-package Ivanov.Dmitro;
+package com.hillel.IvanovDmitro;
 
 public class Hello {
 
