@@ -1,4 +1,4 @@
-package com.hillel;
+package Ivanov.Dmitro;
 
 public class Main {
 
