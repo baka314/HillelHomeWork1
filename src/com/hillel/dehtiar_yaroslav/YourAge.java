@@ -8,6 +8,7 @@ public class YourAge {
         Scanner scanner = new Scanner(System.in);
         int currentYear = 2022;
         int enteredBirth = scanner.nextInt();
-        System.out.println("You are " + (currentYear - enteredBirth) + " years old.");
+        int result = (currentYear - enteredBirth);
+        System.out.println("You are " + result + " years old.");
     }
 }
